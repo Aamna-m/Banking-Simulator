@@ -33,9 +33,4 @@ This Python program simulates a banking system with multiple features such as ac
 6. **Quit the Program**  
    - Users can exit the system at any time, and a thank-you message is displayed.
 
----
 
-## Prerequisites
-
-Ensure you have Python 3.x installed to run this program.  
-No additional libraries are required, except for the built-in `random` module.
