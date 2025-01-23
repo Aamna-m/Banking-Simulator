@@ -39,11 +39,3 @@ This Python program simulates a banking system with multiple features such as ac
 
 Ensure you have Python 3.x installed to run this program.  
 No additional libraries are required, except for the built-in `random` module.
-
----
-
-## Usage
-
-1. Run the program in your Python environment:
-   ```bash
-   python banking_problem.py
